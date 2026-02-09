@@ -1,4 +1,4 @@
-# Rai Arai
+# Arai
 
 Arai is a platform for building, deploying, and managing autonomous agents. It provides a runtime for agent execution, standard protocol support, and the infrastructure needed to operate agents responsibly at scale.
 
